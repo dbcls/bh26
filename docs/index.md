@@ -10,8 +10,8 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 ## Dates and venue
 
-- Dates: 13th September (Sun) - 21th September (Sat), 2026
-- Venue: [Ichiyu no Mori](https://www.okudogo.co.jp/) in Matsuyama, Japan ([Google map](https://maps.app.goo.gl/AbifWNE7brwMAPzV8))
+- Dates: 13th September (Sun) - 19th September (Sat), 2026
+- Venue: [Ichiyu no Mori](https://www.okudogo.co.jp/en/) in Matsuyama, Japan ([Google map](https://maps.app.goo.gl/AbifWNE7brwMAPzV8))
 
 ## Registration
 

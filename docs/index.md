@@ -4,7 +4,7 @@
 
 ## Objectives
 
-The BioHackathon in Japan, organized by the Database Center for Life Science (DBCLS), continues to prioritize the integrated use of databases in the life sciences, with a strong emphasis on interoperability, standardization, and the construction of FAIR knowledge graphs. In recent years, the development of tools and workflows for integrating heterogeneous biological and biomedical data—including multi-omics, imaging, clinical, and environmental data—has become increasingly central. This integration is key to enabling cross-domain analysis and improving reproducibility in data-driven research.
+The BioHackathon in Japan, organized by the Database Division for Life Science (DBCLS), continues to prioritize the integrated use of databases in the life sciences, with a strong emphasis on interoperability, standardization, and the construction of FAIR knowledge graphs. In recent years, the development of tools and workflows for integrating heterogeneous biological and biomedical data—including multi-omics, imaging, clinical, and environmental data—has become increasingly central. This integration is key to enabling cross-domain analysis and improving reproducibility in data-driven research.
 
 In addition, the rapid progress of large language models (LLMs) and other generative AI technologies opens new opportunities for extracting, linking, and reasoning over life science data. We aim to explore how these technologies can be effectively combined with curated databases and ontologies to enhance knowledge discovery, support hypothesis generation, and streamline research workflows. Through collaborative, hands-on hacking, the BioHackathon seeks to incubate innovative ideas and open solutions that push the boundaries of computational life science.
 
@@ -33,7 +33,7 @@ Note: Registration may be closed early if the number of participants exceeds the
 
 ## Organizers
 
-- BioHackathon Management Organizaion, Database Center for Life Science
+- BioHackathon Management Organizaion, Database Division for Life Science
 
 ## Links
 

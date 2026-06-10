@@ -1,6 +1,6 @@
-<img src="./images/bh25-logo.png" width="200">
+<img src="./images/bh-logo.png" width="200">
 
-# DBCLS BioHackathon 2025
+# DBCLS BioHackathon 2026
 
 ## Objectives
 
@@ -10,27 +10,26 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 ## Dates and venue
 
-- Dates: 14th September (Sun) - 20th September (Sat), 2025
-- Venue: [VISON](https://vison.jp/) in Mie, Japan ([Google map](https://maps.app.goo.gl/JArqLrhYCCGfCfL78))
+- Dates: 13th September (Sun) - 21th September (Sat), 2026
+- Venue: [Ichiyu no Mori](https://www.okudogo.co.jp/) in Matsuyama, Japan ([Google map](https://maps.app.goo.gl/AbifWNE7brwMAPzV8))
 
 ## Registration
 
--<s> Please register using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3a6TEnfatcH_C-aUZUmzf8jxXovEG5IVuD8ngdzm7j7xIPg/viewform?usp=sharing&ouid=111401176245823315613) </s>(Registration closed at July 31)
+-<s> Please register using the [registration form](TBA)</s>
 
 ## Important dates
 
-- July 1, 2025: Registration opens
-- July 31, 2025: Registration closes; Deadline for accommodation fee payment
-  - For international participants: Please make sure you can receive emails from @tcijapan.co.jp, as payment method details will be sent via that address.
+- June 15, 2026: Registration opens
+- August 17, 2026: Registration closes
 
 Note: Registration may be closed early if the number of participants exceeds the venue capacity.
 
 ## Information
 
-- [Wiki](https://github.com/dbcls/bh25/wiki/)
-- [Schedule](https://github.com/dbcls/bh25/wiki/Schedule)
-- [Participants](https://github.com/dbcls/bh25/wiki/Participants)
-- [Projects](https://github.com/dbcls/bh25/wiki/Projects)
+- [Wiki](https://github.com/dbcls/bh26/wiki/)
+- [Schedule](https://github.com/dbcls/bh26/wiki/Schedule)
+- [Participants](https://github.com/dbcls/bh26/wiki/Participants)
+- [Projects](https://github.com/dbcls/bh26/wiki/Projects)
 
 ## Organizers
 

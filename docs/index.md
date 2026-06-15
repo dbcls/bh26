@@ -19,7 +19,7 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 ## Important dates
 
-- June 15, 2026: Registration opens
+- June 22, 2026: Registration opens
 - August 17, 2026: Registration closes
 
 Note: Registration may be closed early if the number of participants exceeds the venue capacity.

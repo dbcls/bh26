@@ -15,12 +15,12 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 ## Registration
 
--<s> Please register using the [registration form](TBA)</s>
+- Please register using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdwD65najGo0DvsVFZw3KHdIJdD3RSMMibUdOHI745Fthi_YQ/viewform?usp=dialog)
 
 ## Important dates
 
-- June 22, 2026: Registration opens
-- August 17, 2026: Registration closes
+- July 23, 2026: Registration opens
+- August 18, 2026: Registration closes
 
 Note: Registration may be closed early if the number of participants exceeds the venue capacity.
 

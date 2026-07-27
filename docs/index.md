@@ -1,4 +1,4 @@
-<img src="./images/bh-logo.png" width="200">
+<img src="./images/bh26-logo.png" width="200">
 
 # DBCLS BioHackathon 2026
 
@@ -21,6 +21,7 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 - July 23, 2026: Registration opens
 - August 18, 2026: Registration closes
+  - Register by August 11 to guarantee your T-shirt!
 
 Note: Registration may be closed early if the number of participants exceeds the venue capacity.
 

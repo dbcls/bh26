@@ -17,7 +17,7 @@ In addition, the rapid progress of large language models (LLMs) and other genera
 
 ## Registration
 
-- Please register using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdwD65najGo0DvsVFZw3KHdIJdD3RSMMibUdOHI745Fthi_YQ/viewform?usp=dialog)
+- Please register using the [~~registration form~~](https://docs.google.com/forms/d/e/1FAIpQLSdwD65najGo0DvsVFZw3KHdIJdD3RSMMibUdOHI745Fthi_YQ/viewform?usp=dialog) (General registration has closed.)
 
 ## Important dates
 

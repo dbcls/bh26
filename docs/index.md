@@ -46,6 +46,12 @@ Note: Registration may be closed early if the number of participants exceeds the
 - [BioHackathon-MENA](https://github.com/biohackathon-mena)
 - [BioHackathons in the US](https://biohackathons.github.io/)
 
+## Support
+
+* Database Division for Life Science (DBCLS)
+* National Lifescience Database Project (NLDP) 
+* Matsuyama Convention & Visitors Bureau
+
 <!--
 ## History of BioHackathon
 

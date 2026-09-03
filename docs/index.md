@@ -51,6 +51,7 @@ Note: Registration may be closed early if the number of participants exceeds the
 * Database Division for Life Science (DBCLS)
 * National Lifescience Database Project (NLDP) 
 * Matsuyama Convention & Visitors Bureau
+  <img src="./images/matsuyama_mice.png" width="100">
 
 <!--
 ## History of BioHackathon

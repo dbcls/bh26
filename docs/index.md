@@ -36,7 +36,7 @@ Note: Registration may be closed early if the number of participants exceeds the
 
 ## Organizers
 
-- BioHackathon Management Organizaion, Database Division for Life Science
+- BioHackathon Management Organization, Database Division for Life Science
 
 ## Links
 
